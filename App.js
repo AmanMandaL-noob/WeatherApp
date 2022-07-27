@@ -9,8 +9,8 @@ import WeatherDetail from './components/WeatherDetail';
 import { colors } from './utils/index';
 
 
-const WEATHER_API_KEY = '633ba5fa0ff36f22095b9847cc7cde09'
-const BASE_WEATHER_URL  = 'https://api.openweathermap.org/data/2.5/weather?'
+const WEATHER_API_KEY = ''
+const BASE_WEATHER_URL  = ''
 
 export default function App() {
 
